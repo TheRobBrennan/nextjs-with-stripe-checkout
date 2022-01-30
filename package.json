@@ -1,6 +1,6 @@
 {
-  "name": "ecommerce-nextjs-stripe-checkout",
-  "version": "0.1.0",
+  "name": "nextjs-with-stripe-checkout",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
